@@ -1,0 +1,2 @@
+# microscope
+discover Meteor project
